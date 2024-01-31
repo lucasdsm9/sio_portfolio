@@ -1,0 +1,58 @@
+body
+{
+	margin: 0;
+	font-family: 'MADE TOMMY', sans-serif;
+}
+
+
+@font-face {
+    font-family: 'made_tommyregular';
+    src: url('font/tommy/made_tommy_regular_personal_use-webfont.woff2') format('woff2'),
+         url('font/tommy/made_tommy_regular_personal_use-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.font-tommy{
+	font-family: 'made_tommyregular';
+}
+
+/* debut navbar */
+#nav
+{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	background-color: #000;
+	z-index: 10;
+}
+
+#in-nav
+{
+	padding: 10px;
+	text-decoration: none;
+	display: table-cell;
+	float: left;
+}
+
+#name-nav
+{
+	text-decoration: none;
+}
+
+#lucas
+{
+	padding-left: 20px;
+	font-family: 'MADE TOMMY', sans-serif;
+}
+
+#dsm
+{
+	padding-left: 9px;
+	font-family: 'MADE TOMMY', sans-serif;
+}
