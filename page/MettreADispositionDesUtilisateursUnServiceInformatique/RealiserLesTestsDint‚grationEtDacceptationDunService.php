@@ -13,7 +13,7 @@
 <?php include_once('../../componant/navbar.php') ?>
 
 <div class="mx-40">
-  <h1 class="text-center mt-28 text-2xl">Évaluer les indicateurs de suivi d’un projet et analyser les écarts</h1>
+  <h1 class="text-center mt-28 text-2xl">Réaliser les tests d’intégration et d’acceptation d’un service</h1>
 </div>
 
 </body>

@@ -18,7 +18,7 @@
   <div class="mt-20 flex items-center">
     <i class="fab fa-linkedin text-blue-500 text-2xl"></i>
     <p class="ml-2">Linkedin:</p>
-    <img class="w-3/5 mx-auto" src="portfo/linkedin.png" alt="LinkedIn" />
+    <img class="w-3/5 mx-auto" src="../../portfo/linkedin.png" alt="LinkedIn" />
   </div>
   <div class="flex justify-center items-center mt-8">
     <a class="bg-blue-400 text-white rounded px-4 mx-auto" href="https://www.linkedin.com/in/lucasdesaintemaresville/" target="_blank" rel="noopener noreferrer">Accéder à Linkedin</a>
@@ -27,7 +27,7 @@
   <div class="mt-20 flex items-center">
     <i class="fab fa-github text-black text-2xl"></i>
     <p class="ml-2">Github:</p>
-    <img class="w-3/5 mx-auto" src="portfo/github.png" alt="Github" />
+    <img class="w-3/5 mx-auto" src="../../portfo/github.png" alt="Github" />
   </div>
   <div class="flex justify-center items-center mt-8">
     <a class="bg-black text-white rounded px-4 mx-auto" href="https://github.com/lucasdsm9/" target="_blank" rel="noopener noreferrer">Accéder à Github</a>

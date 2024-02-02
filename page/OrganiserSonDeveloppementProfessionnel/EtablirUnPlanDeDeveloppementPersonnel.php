@@ -12,6 +12,9 @@
 <!-- NAVBAR IMPORT -->
 <?php include_once('../../componant/navbar.php') ?>
 
+<div class="mx-40">
+  <h1 class="text-center mt-28 text-2xl">Établir un plan de développement personnel</h1>
+</div>
 
 </body>
 </html>

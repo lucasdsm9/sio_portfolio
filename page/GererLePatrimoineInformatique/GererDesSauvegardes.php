@@ -15,7 +15,7 @@
 
 <div>
     <div class="mx-40">
-        <h1 class="text-center mt-10 text-2xl">Gérer des sauvegardes</h1>
+        <h1 class="text-center mt-28 text-2xl">Gérer des sauvegardes</h1>
     </div>
 </div>
 

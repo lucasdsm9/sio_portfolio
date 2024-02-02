@@ -22,14 +22,17 @@
     </div>
     <div class="mt-6">
       <p><u>Se documenter sur le marché de l'emploi :</u> Recherche des offres d'emplois sur le marché actuel</p>
-      <img class="w-1/3 mx-auto mt-10" src="portfo/rechercheemploie.png" alt="Recherche d'emplois" />
+      <img class="w-1/3 mx-auto mt-10" src="../../portfo/rechercheemploie.png" alt="Recherche d'emplois" />
     </div>
     <div class="mt-6">
       <p><u>Acquérir des compétences supplémentaires :</u> En se formant sur de nouveaux langages...</p>
-      <img class="w-3/5 mx-auto mt-10" src="portfo/formation.png" alt="Recherche d'emplois" />
+      <img class="w-3/5 mx-auto mt-10" src="../../portfo/formation.png" alt="Recherche d'emplois" />
     </div>
     <div class="mt-6">
       <p><u>Développez votre réseau professionnel :</u> Linkedin, conférences...</p> 
+      <p>Salon Your Future - Lille</p>
+      <p>Rencontre de nombreuses grosse entreprise du secteur, Transdev, Decathlon, Carrefour pour une recherche d'alternance</p>
+      <img src="../../portfo/">
     </div>
   </div>
 </div>

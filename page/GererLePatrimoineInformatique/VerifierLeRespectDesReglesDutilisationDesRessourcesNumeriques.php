@@ -15,7 +15,13 @@
 
 <div>
     <div class="mx-40">
-        <h1 class="text-center mt-10 text-2xl">Vérifier le respect des règles d’utilisation des ressources numériques</h1>
+        <h1 class="text-center mt-28 text-2xl">Vérifier le respect des règles d’utilisation des ressources numériques</h1>
+
+        <p>Verification de la bonne utilisation des logo implémanté sur le site web formhelfy (en suivant les indications de chaque logo) : Qualiopi - Mase - Cofrac - Certibat </p>
+        <img src="../../portfo/" alt="logo cofrac">
+        <img src="../../portfo/" alt="logo qualiopi">
+        <img src="../../portfo/" alt="logo certibat">
+        <img src="../../portfo/" alt="logo mase">
     </div>
 </div>
 

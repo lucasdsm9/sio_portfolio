@@ -15,7 +15,7 @@
 
 <div>
     <div class="mx-40">
-        <h1 class="text-center mt-10 text-2xl">Vérifier les conditions de la continuité d’un service informatique</h1>
+        <h1 class="text-center mt-28 text-2xl">Vérifier les conditions de la continuité d’un service informatique</h1>
     </div>
 </div>
 

@@ -13,7 +13,7 @@
 <?php include_once('../../componant/navbar.php') ?>
 
 <div class="mx-40">
-  <h1 class="text-center mt-26 text-2xl">Référencer les services en ligne de l’organisation et mesurer leur visibilité</h1>
+  <h1 class="text-center mt-28 text-2xl">Référencer les services en ligne de l’organisation et mesurer leur visibilité</h1>
 
   <div class="mt-6">
     <p>Site Web Helfy.fr</p>

@@ -13,7 +13,7 @@
 <?php include_once('../../componant/navbar.php') ?>
 
 <div class="mx-40">
-  <h1 class="text-center mt-26 text-2xl">Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</h1>
+  <h1 class="text-center mt-28 text-2xl">Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques</h1>
 
 
   </div>

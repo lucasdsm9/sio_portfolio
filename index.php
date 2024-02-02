@@ -115,7 +115,7 @@
             </li>
             <br />
             <li>
-              <a href="page/TravaillerEnModeProjet/PlanifierLesActivites.php">Planifier les activités</a>
+              <a class="text-blue-400" href="page/TravaillerEnModeProjet/PlanifierLesActivites.php">Planifier les activités</a>
             </li>
             <br />
             <li>

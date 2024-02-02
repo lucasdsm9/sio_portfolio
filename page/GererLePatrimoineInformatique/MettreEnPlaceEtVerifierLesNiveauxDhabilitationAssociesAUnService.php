@@ -16,7 +16,7 @@
 <div>
 
     <div class="mx-40">
-  <h1 class="text-center mt-10 text-2xl">Mettre en place et vérifier les niveaux d’habilitation associés à un service</h1>
+  <h1 class="text-center mt-28 text-2xl">Mettre en place et vérifier les niveaux d’habilitation associés à un service</h1>
   <p><u>Gestion des Logs avec Rsyslog :</u></p>
   <a href="portfo/" download class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded mt-4 inline-block">Cliquez pour télécharger</a>
 </div>

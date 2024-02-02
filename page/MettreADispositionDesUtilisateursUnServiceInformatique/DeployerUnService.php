@@ -24,7 +24,7 @@
     <p><u>Mise en place de FormHelfy</u></p>
     <p>Mise en place d'un site e-learning (formation en ligne).</p> 
 
-    <img class="w-3/5 mx-auto mt-10" src="portfo/formhelfy.png">   
+    <img class="w-3/5 mx-auto mt-10" src="../../portfo/formhelfy.png">   
   </div>
 </div>
 
